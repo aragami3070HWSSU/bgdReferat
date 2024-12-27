@@ -35,5 +35,7 @@
 
 #include "sections/section1.typ"
 
+#include "sections/section2.typ"
+
 = Список использованных источников
 #bibliography("test.bib", style: "gost-7-1-2003.csl", title: none, full: false)
